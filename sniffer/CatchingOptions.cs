@@ -5,7 +5,7 @@ namespace sniffer;
 public class CatchingOptions
 {
     [Required]
-    [Name("pr", "protocol ( Required, tcp or udp ))")]
+    [Name("pr", "protocol ( tcp or udp ))")]
     [Description("catching protocol")]
     public string Protocol { get; set; }
 
