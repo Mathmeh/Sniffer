@@ -9,8 +9,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="MatthiWare.CommandLineParser" Version="0.7.0" />
-      <PackageReference Include="SharpPcap" Version="6.1.0" />
+        <PackageReference Include="MatthiWare.CommandLineParser" Version="0.7.0"/>
+        <PackageReference Include="SharpPcap" Version="6.1.0"/>
     </ItemGroup>
 
 </Project>
