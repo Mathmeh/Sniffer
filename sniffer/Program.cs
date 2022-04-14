@@ -25,6 +25,7 @@ public class Program
             return;
         }
         
+
         var capturer = new Capturer(startingOptions);
         capturer.CatchPacket();
     }
