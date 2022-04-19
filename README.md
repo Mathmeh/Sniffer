@@ -18,6 +18,8 @@
   * номер порта получателя (destination port)
 # Пример
     start sniffer -pr tcp -dp 80 -dip 127.0.0.1
+   ![Image alt](https://github.com/Mathmeh/Sniffer/blob/master/s.png)
+
 
 # Использовались
 Помимо .Net 6.0 в проекте использовались: 
